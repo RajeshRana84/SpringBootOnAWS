@@ -1,4 +1,4 @@
-# SpringSecurityJdbcApp
+
 
 Created this app to deploy on AWS EC2 and connecting with MYSql RDS instance
 
